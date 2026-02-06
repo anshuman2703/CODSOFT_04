@@ -1,0 +1,69 @@
+Title,Type,Genre,Rating
+Interstellar,Movie,Sci-Fi,4.8
+Inception,Movie,Sci-Fi,4.7
+The Matrix,Movie,Sci-Fi,4.9
+Gravity,Movie,Sci-Fi,4.3
+Avatar,Movie,Sci-Fi,4.1
+Blade Runner 2049,Movie,Sci-Fi,4.6
+Arrival,Movie,Sci-Fi,4.5
+Dune,Movie,Sci-Fi,4.6
+Tenet,Movie,Sci-Fi,4
+Ex Machina,Movie,Sci-Fi,4.4
+The Dark Knight,Movie,Action,4.9
+Batman Begins,Movie,Action,4.6
+The Dark Knight Rises,Movie,Action,4.3
+Iron Man,Movie,Action,4.5
+Avengers: Endgame,Movie,Action,4.6
+Avengers: Infinity War,Movie,Action,4.7
+Captain America: Civil War,Movie,Action,4.4
+Thor: The Dark World,Movie,Action,2.9
+Borderlands,Movie,Action,1.5
+Transformers: The Last Knight,Movie,Action,1.9
+Fast X,Movie,Action,2.5
+Justice League,Movie,Action,3.2
+Titanic,Movie,Romance,4.2
+The Notebook,Movie,Romance,4
+La La Land,Movie,Romance,4.4
+Pride and Prejudice,Movie,Romance,4.6
+Her,Movie,Romance,4.3
+Breaking Bad,Series,Crime,4.9
+Better Call Saul,Series,Crime,4.8
+Narcos,Series,Crime,4.4
+Mindhunter,Series,Crime,4.6
+Peaky Blinders,Series,Crime,4.7
+Ozark,Series,Crime,4.3
+Stranger Things,Series,Sci-Fi,4.4
+Dark,Series,Sci-Fi,4.8
+The Expanse,Series,Sci-Fi,4.5
+Westworld,Series,Sci-Fi,4.2
+Black Mirror,Series,Sci-Fi,4.6
+The Boys,Series,Action,4.6
+Reacher,Series,Action,4.3
+Vikings,Series,Action,4.5
+Money Heist,Series,Thriller,4.1
+Squid Game,Series,Thriller,4.2
+Game of Thrones,Series,Fantasy,4.4
+Succession,Series,Drama,4.6
+Reacher,Series,Action,4
+House of the Dragon,Series,Fantasy,4.3
+Naruto,Anime,Action,4.7
+Naruto Shippuden,Anime,Action,4.8
+Attack on Titan,Anime,Action,4.9
+Demon Slayer,Anime,Action,4.6
+One Punch Man,Anime,Action,4.5
+My Hero Academia,Anime,Action,4.4
+Death Note,Anime,Thriller,4.8
+Tokyo Ghoul,Anime,Thriller,4.2
+Steins Gate,Anime,Sci-Fi,4.9
+Erased,Anime,Thriller,4.6
+Your Lie in April,Anime,Drama,4.6
+Clannad: After Story,Anime,Drama,4.7
+A Silent Voice,Anime,Drama,4.8
+Spirited Away,Anime,Fantasy,4.9
+Howl's Moving Castle,Anime,Fantasy,4.7
+Jujutsu Kaisen,Anime,Action,4.6
+Chainsaw Man,Anime,Action,4.4
+Boruto,Anime,Action,3.1
+Dragon Ball Super,Anime,Action,4
+One Piece,Anime,Adventure,5
+Bleach,Anime,Action,4.5
